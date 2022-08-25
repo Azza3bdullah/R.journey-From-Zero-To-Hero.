@@ -1,5 +1,6 @@
 # R.journey-From-Zero-To-Hero
 
+
 # Overview
 
 This is  "Distill Blog" By RStudio.
@@ -15,3 +16,6 @@ I also have owed this post to many people, namely Dr. Batool Almarzouq and JeelA
 **1. "Welcome to R.journey From Zero To Hero"**
 
 **2. "Plotly R Open Source Graphing Library"**
+
+# License
+**This work is licensed under a MIT**
